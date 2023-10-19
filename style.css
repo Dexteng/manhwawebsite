@@ -1,0 +1,225 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    box-sizing: border-box;
+}
+body {
+    background-image: url(background.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#ads {
+    color: #113946;
+    background-color: white;
+    padding: 20px;
+    margin: 20px 5px 20px 0;
+    font-size: 30px;
+}
+#navbar1 a {
+    color: #EAD7BB;
+    font-weight: 700;
+    letter-spacing: 2px;
+}
+#navbar1 h5 {
+    color: #EAD7BB;
+}
+#navbar1 ul li a {
+    color: #EAD7BB;
+}
+#featurecontent h4 {
+    font-size: 30px;
+    font-weight: 700;
+    color: #EAD7BB;
+    margin: 20px;
+    letter-spacing: 3px;
+}
+#featuretext {
+    background-image: linear-gradient(to right, #BCA37F, #EAD7BB);
+    border-radius: 15px;
+}
+#featurepic {
+    justify-content: center;
+    align-items: center;
+}
+#followus{
+    width: 350px;
+}
+#accordionExample p {
+    color: #EAD7BB;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+#accordionExample h2 button {
+    background-color: #113946;
+}
+#readnow a {
+    text-decoration: none;
+    color: #EAD7BB;
+}
+#contentheader {
+    font-size: 20px;
+    letter-spacing: 2px;
+    color: #113946;
+    margin: 20px;
+    font-weight: 800;
+}
+#contentbut {
+    background-color: #EAD7BB;
+    float: right;
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    color: #113946;
+    border: #113946 solid 2px;
+}
+#maincontent h5 {
+    color: #EAD7BB;
+    margin: 20px;
+    font-size: 25px;
+    font-weight: 800;
+    text-transform: uppercase;
+}
+#chapterlist {
+    background-color: #EAD7BB;
+    border: #113946 solid 3px;
+    border-radius: 10px;
+    margin: 4px;
+    padding-top: 5px;
+}
+#chapterlist a {
+    text-decoration: none;
+}
+#chapterlist a h6 {
+    font-size: 25px;
+    color: #113946;
+    font-weight: 700;
+    letter-spacing: 3px;
+}
+#footer #header {
+    background-color: #113946;
+}
+#footer #header a{
+    text-decoration: none;
+    color: #EAD7BB;
+    font-size: 14px;
+}
+#footer #body {
+    background-color: #EAD7BB;
+}
+#footer #body a {
+    text-decoration: none;
+    border-bottom: solid 2px #113946;
+}
+#footer #body a h5 {
+    color: #113946;
+}
+#footer #footer {
+    background-color: #113946;
+    color: #EAD7BB;
+    font-size: 17px;
+}
+#chaptertitlepic {
+    margin: 10px;
+    padding: 20px;
+}
+#chaptertitlepic img {
+    border: solid 5px #EAD7BB;
+    border-radius: 200px;
+    width: 400px;
+}
+#chaptertitlepic p {
+    color: #EAD7BB;
+    font-size: 18px;
+}
+.dropdown-menu {
+    max-height: 100px;
+    overflow-y: scroll;
+}
+#chapterbut button {
+    margin: 10px;
+}
+#chapterheader h3 {
+    color: #EAD7BB;
+    font-size: 30px;
+    font-weight: 700;
+    margin-top: 30px;
+}
+#slides img {
+    width: 665px;
+}
+#chapterfooter p {
+    color: #EAD7BB;
+    font-size: 17px;
+}
+#comments p{
+    background-color: rgb(221, 80, 80);
+    margin-left: 50px;
+    margin-right: 50px;
+    color: #113946;
+    font-size: 18px;
+}
+#manhwastitle h2 {
+    font-size: 30px;
+    color: #EAD7BB;
+    font-weight: 800;
+    margin: 20px;
+    letter-spacing: 3px;
+}
+#manhwa #manhwabody {
+    background-color: #EAD7BB;
+}
+#manhwa #manhwabody h5 {
+    color: #113946;
+    font-size: 20px;
+    font-weight: 700;
+}
+#manhwa #manhwabody p {
+    color: #113946;
+    font-size: 17px;
+}
+#policy h2 {
+    color: #EAD7BB;
+    font-size: 30px;
+    font-weight: 800;
+    margin: 20px;
+    border-bottom: solid 5px #EAD7BB;
+    padding-bottom: 20px;
+}
+#policy p {
+    color: #EAD7BB;
+    font-size: 20px;
+    margin: 20px;
+}
+#contact {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
+    height: 100vh;
+}
+#contact input {
+    color: #113946;
+    font-size: 20px;
+    background-color: #EAD7BB;
+}
+#contact span {
+    color: #EAD7BB;
+    font-size: 20px;
+    background-color: #113946;
+}
+#contact textarea {
+    color: #113946;
+    font-size: 20px;
+    background-color: #EAD7BB;
+    height: 20vh;
+}
+#contact button {
+    background-color: #113946;
+    color: #EAD7BB;
+    border: #EAD7BB solid 2px;
+    margin: 5px;
+}
